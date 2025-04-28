@@ -4,6 +4,11 @@
 This project is a demonstration of how to create an Active Directory Home Lab using Oracle Virtual Box. Configuring and running this Lab will develop a thorough understanding of how Active Directory and Windows Networking works. I will run a PowerShell script that will automatically create 1000 users in Active Directory.
 <br />
 
+<p align="center">
+Diagram of Project: <br/>
+<img src="https://i.imgur.com/jP0Ffn0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h2>Software Used</h2>
 
@@ -11,11 +16,7 @@ This project is a demonstration of how to create an Active Directory Home Lab us
 - <b>Windows 10 ISO</b>
 - <b>Server 2019 ISO</b>
 
-<p align="center">
-Diagram of Project: <br/>
-<img src="https://i.imgur.com/jP0Ffn0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 Program walk-through <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
